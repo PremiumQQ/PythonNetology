@@ -1,5 +1,3 @@
-from email import message
-
 import telebot
 
 token = "5357054264:AAFTcgYAqTNLNByDEiE49luX9K6YrEP6kcU"
